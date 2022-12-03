@@ -2,9 +2,6 @@ body
 {
     text-align: center;
     font-family: "Arial";
-<<<<<<< HEAD
-    color: orange;
-=======
     color: deeppink;
 }
 
@@ -14,5 +11,4 @@ cabecera
     font-family: 'Segoe UI';
     font-size: 18;
     color: greenyellow
->>>>>>> rama_2
 }
