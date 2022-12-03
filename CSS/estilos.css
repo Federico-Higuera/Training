@@ -4,3 +4,11 @@ body
     font-family: "Arial";
     color: deeppink;
 }
+
+cabecera
+{
+    text-align: left;
+    font-family: 'Segoe UI';
+    font-size: 18;
+    color: greenyellow
+}
